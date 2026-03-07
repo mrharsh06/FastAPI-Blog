@@ -1,0 +1,18 @@
+post: list[dict]=[
+
+    {
+        "id":1,
+        "author":"Harsh Chaudhary",
+        "title":"FastAPI is Awesome",
+        "content":"THis Framework is really easy to use and super fast",
+        "date_posted":"April 20,2026",
+    },
+    {
+        "id":2,
+        "author":"jane Doe"
+        "title":"Pythn is Great for Web Developemnt",
+        "content":"python is a great language for web Developemt ,and FadtAPI makes it even bettter",
+        "date_pasted":"April 21,2025",
+    },
+
+]
